@@ -14,7 +14,7 @@
 
 - `Turn on` the TV.
 - `Turn` the TV `on`.
-- `Turn` it `on`. (:negative_squared_cross_mark: Turn on it.)
+- `Turn` it `on`. :negative_squared_cross_mark: Turn on it.
 - `Turn off` the light.
 - `Make up` a story/excuse.
 
@@ -36,15 +36,15 @@ Have an object but you cannot separate the verb and preposition.
 | | fall asleep | I was so tired that I **dropped off** in my chair. |
 | head for | go to | If you **head for** the beach, my house is the last one on the right. |
 | pick up | collect in vehicle | I'll **pick** you **up** at 6. |
-| | take | Please **pick up** your clothes. |
+| | take (_ramasser_) | Please **pick up** your clothes. |
 | | get | I **picked up** an illness when I was overseas. |
 | take off | depart (_décoller_) | The plane **took off**. |
-| | ... | My business take off. |
+| | " | My business **takes off**. |
 | fall through | be unsuccessful (_tomber à l'eau_) | The sale of our house **falls though** because the buyer couldn't get the money on time. |
 | come on | start | What time does the TV news **come on**. |
-| turn away | deny entry (_refouler_) | The cinema was full so they had to **turn away** custumers. |
+| turn away | deny entry (_refouler_) | The cinema was full so they had to **turn away** customers. |
 | rub off | be transmitted (_déteindre sur_) | My friends positive attitude has started to **rub off** on me. |
-| make off with | take away | The thieves **made off with** the stolen jeweks. |
+| make off with | take away | The thieves **made off with** the stolen jewels. |
 | backup up | make a copy | I always **back up** my computer files. |
 | | move in reverse | The trucks **backed up** and we started to unload it. |
 | set up | install | I have to **set up** the projector before I could watch the movie on the screen. |
