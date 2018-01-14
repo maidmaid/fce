@@ -8,16 +8,16 @@ English in as `S V (O)` language.
 
 ## Clause
 
-Subject + Final verb = Clause
+Subject + Finite verb = Clause
 
 - Independent (makes sens on its own): _I drink beer_.
 - Dependent (cannot stand alone): _because it is delicious_.
 
 Every sentence in English must have at least one independent clause.
 
-## Finit verb
+## Finite verb
 
-What is a finit verb?
+What is a finite verb?
 
 - I **eat** pizza.
 - I **ate** pizza yesterday.
@@ -43,16 +43,16 @@ Eg:
 - to send the letter.
 - is playing tennis.
 
-# Transitive, Intransitive and Distransitive Verbs
+# Transitive, Intransitive and Ditransitive Verbs
 
 Transitive verbs must have a **direct object** (= noun).
 
 Eg:
 
 - He told **me** to go away.
-- I ate **shushi**.
+- I ate **sushi**.
 
-Instransitive verbs do not have direct objects, but can have indirect objects (prep + noun).
+Intransitive verbs do not have direct objects, but can have indirect objects (prep + noun).
 
 Eg:
 
@@ -64,8 +64,8 @@ Ditransitive Verbs have both a direct and indirect object.
 
 Eg:
 
-- I will give `some flovers` `to my wife`.
-  - `some flovers` is the **direct** object.
+- I will give `some flowers` `to my wife`.
+  - `some flowers` is the **direct** object.
   - `to my wife` is the **indirect** object.
 
 ## Link Verbs
@@ -79,7 +79,7 @@ Eg:
 - she looks beautiful.
 - She sounds nice.
 - she seems lovely.
-- It smeels delicious.
+- It smells delicious.
 - It tastes wonderful.
 
 ## Simple sentences
@@ -100,9 +100,9 @@ When we join 2 simple sentences, we get a compound sentence.
   - addition: I like living on the Cold Coast **and** I enjoy going to the beach.
   - result: I studied hard **and** I passed the exam.  
 - Nor (negative addition, need inversion): I do not like fish **nor** do I like peas.
-- But (contrast): It is a warm day **but** he is wargin jeans and a sweater.
+- But (contrast): It is a warm day **but** he is wearing jeans and a sweater.
 - Or:
-  - choice: Do you want to go to the movies **or** yould you like so stay in?
+  - choice: Do you want to go to the movies **or** would you like so stay in?
   - "otherwise": Study hard **or** you won't pass the exam.
 - Yet (formal "but"): I drank 6 beers **yet** I did not feel drunk.
 - So (result): It was a beautiful day **so** I went out.
@@ -113,6 +113,6 @@ When we join 2 simple sentences, we get a compound sentence.
 2. `SV SC SV`: I love the beach **not that** I like sand in my shorts.
 3. `SV. T, SV`: It was a warn, sunny day. **However**, he wore a long coat.
 4. `SV; T, SV`: I went to the beach; **however**, the waves were tiny.
-5. `SV. S, T, V`: I am very tired. I, **conversly**, will get up early tomorrow.
+5. `SV. S, T, V`: I am very tired. I, **conversely**, will get up early tomorrow.
 6. `SV. SV, T`: I am very tired. I will get up early, **nonetheless**.
 7. `P+n SV`: **Despite** the cold he went swimming.

@@ -24,7 +24,7 @@ Have an object but you cannot separate the verb and preposition.
 
 - `Look forward to` a holiday
 - `Take part` in a ceremony.
-- `Loog for` my keys.
+- `Look for` my keys.
 - `Take care` of a pet.
 - `Look after` a child.
 
