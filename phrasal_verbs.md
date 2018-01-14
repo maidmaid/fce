@@ -2,11 +2,7 @@
 
 ## Type 1
 
-Have no object.
-
-You cannot separate the verb and preposition.
-
-Eg:
+**Have no object.** You cannot separate the verb and preposition.
 
 - `Wake up`
 - `Get up`
@@ -14,11 +10,7 @@ Eg:
 
 ## Type 2
 
-have an object.
-
-You can separate the verb and the preposition.
-
-Eg:
+**Have an object.** You can separate the verb and the preposition.
 
 - `Turn on` the TV.
 - `Turn` the TV `on`.
