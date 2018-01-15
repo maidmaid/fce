@@ -20,6 +20,9 @@
 15. health :arrow_right: /hels/
 16. hear :arrow_right: /hir/
 17. career :arrow_right: /carier/
+18. get on with :arrow_right: to have a good relationship with
+19. housework :arrow_right: chores (_corvées_ ménagères)
+
 
 :b:
 
@@ -34,3 +37,10 @@
    - I'm gonna eat a pizza. I'm going to eat a pizza.
 6. dunno :arrow_right: don't know
 7. 1st 2nd 3rd 4th
+8. there/their/they're
+   - there :arrow_right: there are
+   - their :arrow_right: their books (belongs to them)
+   - they're :arrow_right: they are
+9. this/these
+   - this :arrow_right: one (this person)
+   - these :arrow_right: plural (these people)
