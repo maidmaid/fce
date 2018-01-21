@@ -32,3 +32,7 @@ Write your thesis again in other words (paraphrase).
 - No contractions
 - Use academic words instead of phrasal verbs if you can.
 - Avoid "I think/feel/believe" except for your thesis and conclusion.
+
+## Examples
+
+- [Modern lifestyles can seriously endanger our health.](essay_lifestyles.md)
