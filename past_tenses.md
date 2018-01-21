@@ -1,5 +1,3 @@
-1. are you stupid? you stupid motherfucker !!!!! Hey bro one more you fucking Einstein!!! just go to white t shirt and have a sex with him you motherfucker
-
 # Past tenses
 
 ## Past simple
