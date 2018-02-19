@@ -32,3 +32,6 @@ An -> vowel sound -> apple, igloo, umbrella, egg, octopus
 ## Little rules for articles (cannot break the big rules)
 
 - cities, towns, villages, countries, etc. (except groups of islands (The Solomon Islands) or states (The USA) or a republic (The Czech Republic))
+- means of transport (by) (on foot)
+- some place (home, work, school, hospital, bed, university)
+- with other determiners

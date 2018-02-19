@@ -9,5 +9,5 @@
 - [Relative Pronouns](relative_pronouns.md)
 - [Passive Voice](passive_voice.md)
 - [Balanced Essay](balanced_essay.md)
-- [Conditionnal](conditionnals.md)
+- [Conditional](conditionals.md)
 - [.](divers.md)
