@@ -35,3 +35,15 @@ An -> vowel sound -> apple, igloo, umbrella, egg, octopus
 - means of transport (by) (on foot)
 - some place (home, work, school, hospital, bed, university)
 - with other determiners
+
+
+The
+
+- When we usually only have 1 (doctor, bank, post office, etc)
+- Superlative adj.
+- Rivers / Mountain Ranges
+
+A
+
+- Expressions of quantity
+- a few / a lot of / twice a week / once a year
